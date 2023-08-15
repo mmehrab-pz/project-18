@@ -1,0 +1,676 @@
+@media screen and (max-width: 576px) {
+  #header-content-title {
+    margin-bottom: 130px;
+  }
+  #header-content-title > h1 {
+    font-size: 40px;
+  }
+  #header-content-title > h1::before {
+    display: none;
+  }
+  #header-content-title > h1 > figure {
+    top: -240px;
+  }
+  #header-content-title > h1 > figure > img {
+    width: 450px;
+  }
+  #header-content-title > p {
+    font-size: 15px;
+    letter-spacing: 5px;
+  }
+  #skyward {
+    width: 100%;
+    padding: 100px 0;
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  #skyward-title {
+    padding-left: 0%;
+    transform: scale(0.8);
+  }
+  #skyward-img {
+    padding-right: 0%;
+    transform: scale(0.7);
+  }
+  #information {
+    width: 100%;
+  }
+  #information-title {
+    padding: 0px 0;
+  }
+  #information-title > h3 {
+    font-size: 30px;
+  }
+  #information-cards {
+    width: 95%;
+  }
+  #assassin-img {
+    bottom: 0px;
+    transform: scale(0.4);
+  }
+  #donation {
+    padding: 50px 0;
+    position: relative;
+  }
+  #donation-title {
+    padding-left: 0%;
+    transform: scale(0.8);
+  }
+  #donation-img {
+    padding-right: 0%;
+    margin-top: 500px;
+  }
+  #contact {
+    padding: 50px 0;
+  }
+  #contact-title {
+    transform: scale(0.8);
+    padding-left: 0%;
+  }
+  #contact-form {
+    padding-left: 0%;
+    transform: scale(0.7);
+  }
+  #contact-form > form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  #footer-contetn-link {
+    margin-top: 50px;
+    text-align: start;
+  }
+  #footer-contetn-link > ul > li {
+    text-align: start;
+  }
+  #mehrab > div {
+    width: 100%;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 576px) {
+  #header-content-title {
+    margin-bottom: 130px;
+  }
+  #header-content-title > h1 {
+    font-size: 40px;
+  }
+  #header-content-title > h1::before {
+    display: none;
+  }
+  #header-content-title > h1 > figure {
+    top: -240px;
+  }
+  #header-content-title > h1 > figure > img {
+    width: 450px;
+  }
+  #header-content-title > p {
+    font-size: 15px;
+    letter-spacing: 5px;
+  }
+  #skyward {
+    width: 100%;
+    padding: 100px 0;
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  #skyward-title {
+    padding-left: 0%;
+    transform: scale(0.8);
+  }
+  #skyward-img {
+    padding-right: 0%;
+    transform: scale(0.7);
+  }
+  #information {
+    width: 100%;
+  }
+  #information-title {
+    padding: 0px 0;
+  }
+  #information-title > h3 {
+    font-size: 30px;
+  }
+  #information-cards {
+    width: 95%;
+  }
+  #assassin-img {
+    bottom: 0px;
+    transform: scale(0.4);
+  }
+  #donation {
+    padding: 50px 0;
+    position: relative;
+  }
+  #donation-title {
+    padding-left: 0%;
+    transform: scale(0.8);
+  }
+  #donation-img {
+    padding-right: 0%;
+    margin-top: 500px;
+  }
+  #contact {
+    padding: 50px 0;
+  }
+  #contact-title {
+    transform: scale(0.8);
+    padding-left: 0%;
+  }
+  #contact-form {
+    padding-left: 0%;
+    transform: scale(0.8);
+  }
+  #contact-form > form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  #footer-contetn-link {
+    margin-top: 50px;
+    text-align: start;
+  }
+  #footer-contetn-link > ul > li {
+    text-align: start;
+  }
+  #mehrab > div {
+    width: 100%;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 768px) {
+  #header-content-title {
+    margin-bottom: 130px;
+  }
+  #header-content-title > h1 {
+    font-size: 80px;
+  }
+  #header-content-title > h1::before {
+    display: none;
+  }
+  #header-content-title > h1 > figure {
+    top: -240px;
+  }
+  #header-content-title > h1 > figure > img {
+    width: 500px;
+  }
+  #header-content-title > p {
+    font-size: 18px;
+    letter-spacing: 8px;
+  }
+  #skyward {
+    width: 100%;
+    padding: 100px 0;
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  #skyward-title {
+    padding-left: 0%;
+    transform: scale(0.8);
+  }
+  #skyward-img {
+    padding-right: 0%;
+    transform: scale(1);
+  }
+  #information {
+    width: 100%;
+  }
+  #information-title {
+    padding: 0px 0;
+  }
+  #information-title > h3 {
+    font-size: 30px;
+  }
+  #information-cards {
+    width: 95%;
+  }
+  #assassin-img {
+    bottom: 0px;
+    transform: scale(0.6);
+  }
+  #donation {
+    padding: 50px 0;
+    position: relative;
+  }
+  #donation-title {
+    padding-left: 5%;
+    transform: scale(0.8);
+  }
+  #donation-img {
+    padding-right: 0%;
+    margin-top: 500px;
+  }
+  #team-cards {
+    width: 95%;
+    margin: 0 auto;
+  }
+  #contact {
+    padding: 50px 0;
+  }
+  #contact-title {
+    transform: scale(0.8);
+    padding-left: 0%;
+  }
+  #contact-form {
+    padding-left: 0%;
+    transform: scale(0.8);
+  }
+  #contact-form > form {
+    display: block;
+  }
+  #mehrab > div {
+    width: 90%;
+    justify-content: space-between;
+  }
+}
+@media screen and (min-width: 992px) {
+  #header-navbar > section {
+    width: 95%;
+  }
+  #header-navbar-logo > img {
+    width: 200px;
+  }
+  #header-navbar-bottom {
+    padding: 10px 0 10px 0;
+  }
+  #header-navbar-bottom > ul > li {
+    font-size: 12px;
+    padding-right: 30px;
+  }
+  #header-navbar-bottom > ul:nth-of-type(2) > li {
+    padding-left: 30px;
+  }
+  .search-btn {
+    margin-left: 30px;
+  }
+  #header-content-title {
+    margin-bottom: 30px;
+  }
+  #header-content-title > h1 {
+    font-size: 94px;
+  }
+  #header-content-title > h1::before {
+    display: block;
+  }
+  #header-content-title > h1 > figure {
+    top: -345px;
+  }
+  #header-content-title > h1 > figure > img {
+    width: 650px;
+  }
+  #header-content-title > p {
+    font-size: 20px;
+    letter-spacing: 9px;
+  }
+  #skyward {
+    width: 100%;
+    padding: 100px 0;
+    display: flex;
+    flex-direction: row;
+  }
+  #skyward-title {
+    padding-left: 0%;
+    transform: scale(0.8);
+  }
+  #skyward-img {
+    padding-right: 5%;
+    transform: scale(0.9);
+  }
+  #information {
+    width: 100%;
+  }
+  #information-title {
+    padding: 0px 0;
+  }
+  #information-title > h3 {
+    font-size: 30px;
+  }
+  #information-cards {
+    width: 95%;
+  }
+  #assassin-img {
+    bottom: 0px;
+    transform: scale(0.8);
+  }
+  #matches-cards > section {
+    transform: scale(0.85);
+  }
+  #donation {
+    padding: 150px 0;
+    position: relative;
+  }
+  #donation-title {
+    padding-left: 1%;
+    transform: scale(0.8);
+  }
+  #donation-img {
+    padding-right: 0%;
+    margin-top: 0px;
+  }
+  #contact {
+    padding: 80px 0;
+  }
+  #contact-title {
+    transform: scale(0.8);
+    padding-left: 0%;
+  }
+  #contact-form {
+    padding-left: 0%;
+    transform: scale(0.8);
+  }
+  #contact-form > form {
+    display: block;
+  }
+  #footer-contetn-link {
+    margin-top: 0px;
+    text-align: end;
+  }
+  #footer-contetn-link > ul > li {
+    text-align: end;
+  }
+  #mehrab > div {
+    width: 70%;
+    justify-content: space-between;
+  }
+}
+@media screen and (min-width: 1200px) {
+  #header-navbar > section {
+    width: 95%;
+  }
+  #header-navbar-logo > img {
+    width: 262px;
+  }
+  #header-navbar-bottom {
+    padding: 10px 0 10px 0;
+  }
+  #header-navbar-bottom > ul > li {
+    font-size: 14px;
+    padding-right: 40px;
+  }
+  #header-navbar-bottom > ul:nth-of-type(2) > li {
+    padding-left: 40px;
+  }
+  .search-btn {
+    margin-left: 40px;
+  }
+  #header-content-title {
+    margin-bottom: 30px;
+  }
+  #header-content-title > h1 {
+    font-size: 120px;
+  }
+  #header-content-title > h1::before {
+    display: block;
+  }
+  #header-content-title > h1 > figure {
+    top: -335px;
+  }
+  #header-content-title > h1 > figure > img {
+    width: 650px;
+  }
+  #header-content-title > p {
+    font-size: 20px;
+    letter-spacing: 10px;
+  }
+  #skyward {
+    width: 100%;
+    padding: 100px 0;
+    display: flex;
+    flex-direction: row;
+  }
+  #skyward-title {
+    padding-left: 0%;
+    transform: scale(0.9);
+  }
+  #skyward-img {
+    padding-right: 5%;
+    transform: scale(0.9);
+  }
+  #information {
+    width: 100%;
+  }
+  #information-title {
+    padding: 0px 0;
+  }
+  #information-title > h3 {
+    font-size: 35px;
+  }
+  #information-cards {
+    width: 95%;
+  }
+  #assassin-img {
+    bottom: -66px;
+    transform: scale(1);
+  }
+  #matches-cards > section {
+    transform: scale(0.9);
+  }
+  #donation {
+    padding: 150px 0;
+    position: relative;
+  }
+  #donation-title {
+    padding-left: 1%;
+    transform: scale(0.9);
+  }
+  #donation-img {
+    padding-right: 0%;
+    margin-top: 0px;
+  }
+  #team-cards {
+    width: 98%;
+    margin: 0 auto;
+  }
+  #contact {
+    padding: 80px 0;
+  }
+  #contact-title {
+    transform: scale(0.9);
+    padding-left: 0%;
+  }
+  #contact-form {
+    padding-left: 0%;
+    transform: scale(0.9);
+  }
+  #contact-form > form {
+    display: block;
+  }
+}
+@media screen and (min-width: 1400px) {
+  #header-navbar > section {
+    width: 80%;
+  }
+  #header-navbar-logo > img {
+    width: 262px;
+  }
+  #header-navbar-bottom {
+    padding: 10px 0 10px 0;
+  }
+  #header-navbar-bottom > ul > li {
+    font-size: 14px;
+    padding-right: 40px;
+  }
+  #header-navbar-bottom > ul:nth-of-type(2) > li {
+    padding-left: 40px;
+  }
+  .search-btn {
+    margin-left: 40px;
+  }
+  #header-content-title {
+    margin-bottom: 30px;
+  }
+  #header-content-title > h1 {
+    font-size: 120px;
+  }
+  #header-content-title > h1::before {
+    display: block;
+  }
+  #header-content-title > h1 > figure {
+    top: -335px;
+  }
+  #header-content-title > h1 > figure > img {
+    width: 650px;
+  }
+  #header-content-title > p {
+    font-size: 20px;
+    letter-spacing: 10px;
+  }
+  #skyward {
+    width: 100%;
+    padding: 100px 0;
+    display: flex;
+    flex-direction: row;
+  }
+  #skyward-title {
+    padding-left: 5%;
+    transform: scale(1);
+  }
+  #skyward-img {
+    padding-right: 5%;
+    transform: scale(0.9);
+  }
+  #information {
+    width: 100%;
+  }
+  #information-title {
+    padding: 0px 0;
+  }
+  #information-title > h3 {
+    font-size: 35px;
+  }
+  #information-cards {
+    width: 95%;
+  }
+  #matches-cards > section {
+    margin-top: -47px;
+    transform: scale(0.95);
+  }
+  #donation {
+    padding: 150px 0;
+    position: relative;
+  }
+  #donation-title {
+    padding-left: 9%;
+    transform: scale(1);
+  }
+  #donation-img {
+    padding-right: 10%;
+    margin-top: 0px;
+  }
+  #contact {
+    padding: 120px 0;
+  }
+  #contact-title {
+    transform: scale(1);
+    padding-left: 5%;
+  }
+  #contact-form {
+    padding-left: 2%;
+    transform: scale(1);
+  }
+  #contact-form > form {
+    display: block;
+  }
+}
+@media screen and (min-width: 1600px) {
+  #header-navbar > section {
+    width: 80%;
+  }
+  #header-navbar-logo > img {
+    width: 262px;
+  }
+  #header-navbar-bottom {
+    padding: 10px 0 10px 0;
+  }
+  #header-navbar-bottom > ul > li {
+    font-size: 14px;
+    padding-right: 40px;
+  }
+  #header-navbar-bottom > ul:nth-of-type(2) > li {
+    padding-left: 40px;
+  }
+  .search-btn {
+    margin-left: 40px;
+  }
+  #header-content-title {
+    margin-bottom: 50px;
+  }
+  #header-content-title > h1 {
+    font-size: 120px;
+  }
+  #header-content-title > h1::before {
+    display: block;
+  }
+  #header-content-title > h1 > figure {
+    top: -335px;
+  }
+  #header-content-title > h1 > figure > img {
+    width: 650px;
+  }
+  #header-content-title > p {
+    font-size: 20px;
+    letter-spacing: 10px;
+  }
+  #skyward {
+    width: 100%;
+    padding: 100px 0;
+    display: flex;
+    flex-direction: row;
+  }
+  #skyward-title {
+    padding-left: 15%;
+    transform: scale(1);
+  }
+  #skyward-img {
+    padding-right: 15%;
+    transform: scale(1);
+  }
+  #information {
+    width: 100%;
+  }
+  #information-title {
+    padding: 0px 0;
+  }
+  #information-title > h3 {
+    font-size: 40px;
+  }
+  #information-cards {
+    width: 80%;
+  }
+  #matches-cards > section {
+    margin-top: -34px;
+    transform: scale(1);
+  }
+  #donation {
+    padding: 150px 0;
+    position: relative;
+  }
+  #donation-title {
+    padding-left: 15%;
+    transform: scale(1);
+  }
+  #donation-img {
+    padding-right: 15%;
+    margin-top: 0px;
+  }
+  #team-cards {
+    width: 80%;
+    margin: 0 auto;
+  }
+  #contact {
+    padding: 150px 0;
+  }
+  #contact-title {
+    transform: scale(1);
+    padding-left: 15%;
+  }
+  #contact-form {
+    padding-left: 5%;
+    transform: scale(1);
+  }
+  #contact-form > form {
+    display: block;
+  }
+}/*# sourceMappingURL=local-home-2.css.map */

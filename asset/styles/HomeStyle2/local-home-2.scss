@@ -1,0 +1,1017 @@
+//  //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+@media screen and (max-width:576px) {
+
+    // ---------------------------------------------header---------------------------------------
+    // -------------------------------header content-------------------------------
+
+    #header-content-title {
+        margin-bottom: 130px;
+
+        >h1 {
+            font-size: 40px;
+
+            &::before {
+                display: none;
+            }
+
+            >figure {
+                top: -240px;
+
+                >img {
+                    width: 450px;
+                }
+            }
+        }
+
+        >p {
+            font-size: 15px;
+            letter-spacing: 5px;
+        }
+    }
+
+    // ---------------------------------------------main---------------------------------------
+    // -------------------------------skyward & information-------------------------------
+
+    #skyward {
+        width: 100%;
+        padding: 100px 0;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    #skyward-title {
+        padding-left: 0%;
+        transform: scale(.8);
+    }
+
+    #skyward-img {
+        padding-right: 0%;
+        transform: scale(.7);
+    }
+
+    #information {
+        width: 100%;
+    }
+
+    #information-title {
+        padding: 0px 0;
+
+        >h3 {
+            font-size: 30px;
+        }
+    }
+
+    #information-cards {
+        width: 95%;
+    }
+
+    // -------------------------------assassin-------------------------------
+
+    #assassin-img {
+        bottom: 0px;
+        transform: scale(.4);
+    }
+
+    // -------------------------------donation-------------------------------
+    #donation {
+        padding: 50px 0;
+        position: relative;
+    }
+
+    #donation-title {
+        padding-left: 0%;
+        transform: scale(.8);
+    }
+
+    #donation-img {
+        padding-right: 0%;
+        margin-top: 500px;
+    }
+
+    // -------------------------------contact-------------------------------
+    #contact {
+        padding: 50px 0;
+    }
+
+    #contact-title {
+        transform: scale(.8);
+        padding-left: 0%;
+    }
+
+    #contact-form {
+        padding-left: 0%;
+        transform: scale(.7);
+
+        >form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+
+    // ---------------------------------------------footer---------------------------------------
+
+    #footer-contetn-link {
+        margin-top: 50px;
+        text-align: start;
+
+        >ul {
+            >li {
+                text-align: start;
+            }
+        }
+    }
+
+    // ---------------------------------------------mehrab---------------------------------------
+    #mehrab {
+        >div {
+            width: 100%;
+            justify-content: center;
+        }
+    }
+}
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+@media screen and (min-width:576px) {
+
+    // ---------------------------------------------header---------------------------------------
+    // -------------------------------header content-------------------------------
+    #header-content-title {
+        margin-bottom: 130px;
+
+        >h1 {
+            font-size: 40px;
+
+            &::before {
+                display: none;
+            }
+
+            >figure {
+                top: -240px;
+
+                >img {
+                    width: 450px;
+                }
+            }
+        }
+
+        >p {
+            font-size: 15px;
+            letter-spacing: 5px;
+        }
+    }
+
+    // ---------------------------------------------main---------------------------------------
+    // -------------------------------skyward & information-------------------------------
+
+    #skyward {
+        width: 100%;
+        padding: 100px 0;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    #skyward-title {
+        padding-left: 0%;
+        transform: scale(.8);
+    }
+
+    #skyward-img {
+        padding-right: 0%;
+        transform: scale(.7);
+    }
+
+    #information {
+        width: 100%;
+    }
+
+    #information-title {
+        padding: 0px 0;
+
+        >h3 {
+            font-size: 30px;
+        }
+    }
+
+    #information-cards {
+        width: 95%;
+    }
+
+    // -------------------------------assassin-------------------------------
+
+    #assassin-img {
+        bottom: 0px;
+        transform: scale(.4);
+    }
+
+    // -------------------------------donation-------------------------------
+    #donation {
+        padding: 50px 0;
+        position: relative;
+    }
+
+    #donation-title {
+        padding-left: 0%;
+        transform: scale(.8);
+    }
+
+    #donation-img {
+        padding-right: 0%;
+        margin-top: 500px;
+    }
+
+    // -------------------------------contact-------------------------------
+    #contact {
+        padding: 50px 0;
+    }
+
+    #contact-title {
+        transform: scale(.8);
+        padding-left: 0%;
+    }
+
+    #contact-form {
+        padding-left: 0%;
+        transform: scale(.8);
+
+        >form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+
+    // ---------------------------------------------footer---------------------------------------
+
+    #footer-contetn-link {
+        margin-top: 50px;
+        text-align: start;
+
+        >ul {
+            >li {
+                text-align: start;
+            }
+        }
+    }
+
+    // ---------------------------------------------mehrab---------------------------------------
+    #mehrab {
+        >div {
+            width: 100%;
+            justify-content: center;
+        }
+    }
+}
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+@media screen and (min-width:768px) {
+
+    // ---------------------------------------------header---------------------------------------
+    // -------------------------------header content-------------------------------
+    #header-content-title {
+        margin-bottom: 130px;
+
+        >h1 {
+            font-size: 80px;
+
+            &::before {
+                display: none;
+            }
+
+            >figure {
+                top: -240px;
+
+                >img {
+                    width: 500px;
+                }
+            }
+        }
+
+        >p {
+            font-size: 18px;
+            letter-spacing: 8px;
+        }
+    }
+
+    // ---------------------------------------------main---------------------------------------
+    // -------------------------------skyward & information-------------------------------
+
+    #skyward {
+        width: 100%;
+        padding: 100px 0;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    #skyward-title {
+        padding-left: 0%;
+        transform: scale(.8);
+    }
+
+    #skyward-img {
+        padding-right: 0%;
+        transform: scale(1);
+    }
+
+    #information {
+        width: 100%;
+    }
+
+    #information-title {
+        padding: 0px 0;
+
+        >h3 {
+            font-size: 30px;
+        }
+    }
+
+    #information-cards {
+        width: 95%;
+    }
+
+    // -------------------------------assassin-------------------------------
+
+    #assassin-img {
+        bottom: 0px;
+        transform: scale(.6);
+    }
+
+    // -------------------------------donation-------------------------------
+    #donation {
+        padding: 50px 0;
+        position: relative;
+    }
+
+    #donation-title {
+        padding-left: 5%;
+        transform: scale(.8);
+    }
+
+    #donation-img {
+        padding-right: 0%;
+        margin-top: 500px;
+    }
+
+    // -------------------------------team-------------------------------
+
+    #team-cards {
+        width: 95%;
+        margin: 0 auto;
+    }
+
+    // -------------------------------contact-------------------------------
+    #contact {
+        padding: 50px 0;
+    }
+
+    #contact-title {
+        transform: scale(.8);
+        padding-left: 0%;
+    }
+
+    #contact-form {
+        padding-left: 0%;
+        transform: scale(.8);
+
+        >form {
+            display: block;
+        }
+    }
+
+    // ---------------------------------------------mehrab---------------------------------------
+    #mehrab {
+        >div {
+            width: 90%;
+            justify-content: space-between;
+        }
+    }
+}
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+@media screen and (min-width:992px) {
+
+    // ---------------------------------------------header---------------------------------------
+    // -------------------------------header nav-------------------------------
+    #header-navbar {
+        >section {
+            width: 95%;
+        }
+    }
+
+    #header-navbar-logo {
+        >img {
+            width: 200px;
+        }
+    }
+
+    #header-navbar-bottom {
+        padding: 10px 0 10px 0;
+
+        >ul {
+            >li {
+                font-size: 12px;
+                padding-right: 30px;
+            }
+
+            &:nth-of-type(2) {
+                >li {
+                    padding-left: 30px;
+                }
+            }
+        }
+    }
+
+    .search-btn {
+        margin-left: 30px;
+    }
+
+    // -------------------------------header content-------------------------------
+    #header-content-title {
+        margin-bottom: 30px;
+
+        >h1 {
+            font-size: 94px;
+
+            &::before {
+                display: block;
+            }
+
+            >figure {
+                top: -345px;
+
+                >img {
+                    width: 650px;
+                }
+            }
+        }
+
+        >p {
+            font-size: 20px;
+            letter-spacing: 9px;
+        }
+    }
+
+    // ---------------------------------------------main---------------------------------------
+    // -------------------------------skyward & information-------------------------------
+
+    #skyward {
+        width: 100%;
+        padding: 100px 0;
+        display: flex;
+        flex-direction: row;
+    }
+
+    #skyward-title {
+        padding-left: 0%;
+        transform: scale(.8);
+    }
+
+    #skyward-img {
+        padding-right: 5%;
+        transform: scale(.9);
+    }
+
+    #information {
+        width: 100%;
+    }
+
+    #information-title {
+        padding: 0px 0;
+
+        >h3 {
+            font-size: 30px;
+        }
+    }
+
+    #information-cards {
+        width: 95%;
+    }
+
+    // -------------------------------assassin-------------------------------
+
+    #assassin-img {
+        bottom: 0px;
+        transform: scale(.8);
+    }
+
+    // -------------------------------matches-------------------------------
+
+    #matches-cards {
+        >section {
+            transform: scale(.85);
+        }
+    }
+
+    // -------------------------------donation-------------------------------
+    #donation {
+        padding: 150px 0;
+        position: relative;
+    }
+
+    #donation-title {
+        padding-left: 1%;
+        transform: scale(.8);
+    }
+
+    #donation-img {
+        padding-right: 0%;
+        margin-top: 0px;
+    }
+
+    // -------------------------------contact-------------------------------
+    #contact {
+        padding: 80px 0;
+    }
+
+    #contact-title {
+        transform: scale(.8);
+        padding-left: 0%;
+    }
+
+    #contact-form {
+        padding-left: 0%;
+        transform: scale(.8);
+
+        >form {
+            display: block;
+        }
+    }
+
+    // ---------------------------------------------footer---------------------------------------
+
+    #footer-contetn-link {
+        margin-top: 0px;
+        text-align: end;
+
+        >ul {
+            >li {
+                text-align: end;
+            }
+        }
+    }
+
+    // ---------------------------------------------mehrab---------------------------------------
+    #mehrab {
+        >div {
+            width: 70%;
+            justify-content: space-between;
+        }
+    }
+}
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+@media screen and (min-width:1200px) {
+
+    // ---------------------------------------------header---------------------------------------
+    // -------------------------------header nav-------------------------------
+    #header-navbar {
+        >section {
+            width: 95%;
+        }
+    }
+
+    #header-navbar-logo {
+        >img {
+            width: 262px;
+        }
+    }
+
+    #header-navbar-bottom {
+        padding: 10px 0 10px 0;
+
+        >ul {
+            >li {
+                font-size: 14px;
+                padding-right: 40px;
+            }
+
+            &:nth-of-type(2) {
+                >li {
+                    padding-left: 40px;
+                }
+            }
+        }
+    }
+
+    .search-btn {
+        margin-left: 40px;
+    }
+
+    // -------------------------------header content-------------------------------
+    #header-content-title {
+        margin-bottom: 30px;
+
+        >h1 {
+            font-size: 120px;
+
+            &::before {
+                display: block;
+            }
+
+            >figure {
+                top: -335px;
+
+                >img {
+                    width: 650px;
+                }
+            }
+        }
+
+        >p {
+            font-size: 20px;
+            letter-spacing: 10px;
+        }
+    }
+
+    // ---------------------------------------------main---------------------------------------
+    // -------------------------------skyward & information-------------------------------
+
+    #skyward {
+        width: 100%;
+        padding: 100px 0;
+        display: flex;
+        flex-direction: row;
+    }
+
+    #skyward-title {
+        padding-left: 0%;
+        transform: scale(.9);
+    }
+
+    #skyward-img {
+        padding-right: 5%;
+        transform: scale(.9);
+    }
+
+    #information {
+        width: 100%;
+    }
+
+    #information-title {
+        padding: 0px 0;
+
+        >h3 {
+            font-size: 35px;
+        }
+    }
+
+    #information-cards {
+        width: 95%;
+    }
+
+    // -------------------------------assassin-------------------------------
+
+    #assassin-img {
+        bottom: -66px;
+        transform: scale(1);
+    }
+
+    // -------------------------------matches-------------------------------
+
+    #matches-cards {
+        >section {
+            transform: scale(.9);
+        }
+    }
+
+    // -------------------------------donation-------------------------------
+    #donation {
+        padding: 150px 0;
+        position: relative;
+    }
+
+    #donation-title {
+        padding-left: 1%;
+        transform: scale(.9);
+    }
+
+    #donation-img {
+        padding-right: 0%;
+        margin-top: 0px;
+    }
+
+    // -------------------------------team-------------------------------
+
+    #team-cards {
+        width: 98%;
+        margin: 0 auto;
+    }
+
+    // -------------------------------contact-------------------------------
+    #contact {
+        padding: 80px 0;
+    }
+
+    #contact-title {
+        transform: scale(.9);
+        padding-left: 0%;
+    }
+
+    #contact-form {
+        padding-left: 0%;
+        transform: scale(.9);
+
+        >form {
+            display: block;
+        }
+    }
+}
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+@media screen and (min-width:1400px) {
+
+    // ---------------------------------------------header---------------------------------------
+    // -------------------------------header nav-------------------------------
+    #header-navbar {
+        >section {
+            width: 80%;
+        }
+    }
+
+    #header-navbar-logo {
+        >img {
+            width: 262px;
+        }
+    }
+
+    #header-navbar-bottom {
+        padding: 10px 0 10px 0;
+
+        >ul {
+            >li {
+                font-size: 14px;
+                padding-right: 40px;
+            }
+
+            &:nth-of-type(2) {
+                >li {
+                    padding-left: 40px;
+                }
+            }
+        }
+    }
+
+    .search-btn {
+        margin-left: 40px;
+    }
+
+    // -------------------------------header content-------------------------------
+    #header-content-title {
+        margin-bottom: 30px;
+
+        >h1 {
+            font-size: 120px;
+
+            &::before {
+                display: block;
+            }
+
+            >figure {
+                top: -335px;
+
+                >img {
+                    width: 650px;
+                }
+            }
+        }
+
+        >p {
+            font-size: 20px;
+            letter-spacing: 10px;
+        }
+    }
+
+    // ---------------------------------------------main---------------------------------------
+    // -------------------------------skyward & information-------------------------------
+
+    #skyward {
+        width: 100%;
+        padding: 100px 0;
+        display: flex;
+        flex-direction: row;
+    }
+
+    #skyward-title {
+        padding-left: 5%;
+        transform: scale(1);
+    }
+
+    #skyward-img {
+        padding-right: 5%;
+        transform: scale(.9);
+    }
+
+    #information {
+        width: 100%;
+    }
+
+    #information-title {
+        padding: 0px 0;
+
+        >h3 {
+            font-size: 35px;
+        }
+    }
+
+    #information-cards {
+        width: 95%;
+    }
+
+    // -------------------------------matches-------------------------------
+
+    #matches-cards {
+        >section {
+            margin-top: -47px;
+            transform: scale(.95);
+        }
+    }
+
+    // -------------------------------donation-------------------------------
+    #donation {
+        padding: 150px 0;
+        position: relative;
+    }
+
+    #donation-title {
+        padding-left: 9%;
+        transform: scale(1);
+    }
+
+    #donation-img {
+        padding-right: 10%;
+        margin-top: 0px;
+    }
+
+    // -------------------------------contact-------------------------------
+    #contact {
+        padding: 120px 0;
+    }
+
+    #contact-title {
+        transform: scale(1);
+        padding-left: 5%;
+    }
+
+    #contact-form {
+        padding-left: 2%;
+        transform: scale(1);
+
+        >form {
+            display: block;
+        }
+    }
+}
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+@media screen and (min-width:1600px) {
+
+    // ---------------------------------------------header---------------------------------------
+    // -------------------------------header nav-------------------------------
+    #header-navbar {
+        >section {
+            width: 80%;
+        }
+    }
+
+    #header-navbar-logo {
+        >img {
+            width: 262px;
+        }
+    }
+
+    #header-navbar-bottom {
+        padding: 10px 0 10px 0;
+
+        >ul {
+            >li {
+                font-size: 14px;
+                padding-right: 40px;
+            }
+
+            &:nth-of-type(2) {
+                >li {
+                    padding-left: 40px;
+                }
+            }
+        }
+    }
+
+    .search-btn {
+        margin-left: 40px;
+    }
+
+    // -------------------------------header content-------------------------------
+    #header-content-title {
+        margin-bottom: 50px;
+
+        >h1 {
+            font-size: 120px;
+
+            &::before {
+                display: block;
+            }
+
+            >figure {
+                top: -335px;
+
+                >img {
+                    width: 650px;
+                }
+            }
+        }
+
+        >p {
+            font-size: 20px;
+            letter-spacing: 10px;
+        }
+    }
+
+    // ---------------------------------------------main---------------------------------------
+    // -------------------------------skyward & information-------------------------------
+
+    #skyward {
+        width: 100%;
+        padding: 100px 0;
+        display: flex;
+        flex-direction: row;
+    }
+
+    #skyward-title {
+        padding-left: 15%;
+        transform: scale(1);
+    }
+
+    #skyward-img {
+        padding-right: 15%;
+        transform: scale(1);
+    }
+
+    #information {
+        width: 100%;
+    }
+
+    #information-title {
+        padding: 0px 0;
+
+        >h3 {
+            font-size: 40px;
+        }
+    }
+
+    #information-cards {
+        width: 80%;
+    }
+
+    // -------------------------------matches-------------------------------
+
+    #matches-cards {
+        >section {
+            margin-top: -34px;
+            transform: scale(1);
+        }
+    }
+
+    // -------------------------------donation-------------------------------
+    #donation {
+        padding: 150px 0;
+        position: relative;
+    }
+
+    #donation-title {
+        padding-left: 15%;
+        transform: scale(1);
+    }
+
+    #donation-img {
+        padding-right: 15%;
+        margin-top: 0px;
+    }
+
+    // -------------------------------team-------------------------------
+
+    #team-cards {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    // -------------------------------contact-------------------------------
+    #contact {
+        padding: 150px 0;
+    }
+
+    #contact-title {
+        transform: scale(1);
+        padding-left: 15%;
+    }
+
+    #contact-form {
+        padding-left: 5%;
+        transform: scale(1);
+
+        >form {
+            display: block;
+        }
+    }
+}

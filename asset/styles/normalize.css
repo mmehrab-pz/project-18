@@ -1,0 +1,98 @@
+@font-face {
+    font-family: 'drinddemolished';
+    src: url(../font/Grinddemolished/Grind_Demolished.ttf);
+}
+
+@font-face {
+    font-family: 'oxanium-bold';
+    src: url(../font/Oxanium/Oxanium-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'oxanium-exbold';
+    src: url(../font/Oxanium/Oxanium-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: 'Poppins-Regular';
+    src: url(../font/Poppins/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Poppins-Medium';
+    src: url(../font/Poppins/Poppins-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Poppins-SemiBold';
+    src: url(../font/Poppins/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'Poppins-Bold';
+    src: url(../font/Poppins/Poppins-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Poppins-ExtraBold';
+    src: url(../font/Poppins/Poppins-ExtraBold.ttf);
+}
+
+/* ----------------------------------------------------------------- */
+*,
+::after,
+::before {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 100%;
+    overflow-x: hidden;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+.row>* {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.container-fluid,
+.container {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+figure {
+    margin: 0;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-bottom: 0;
+}
